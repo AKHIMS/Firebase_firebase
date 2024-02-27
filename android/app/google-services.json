@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "944670577029",
+    "project_id": "walltutorial-47abe",
+    "storage_bucket": "walltutorial-47abe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944670577029:android:56eba92452ada6a0b9f4ec",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVWwNkz-Y7OnG50pmU4yl9_R3xsBX82kA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
